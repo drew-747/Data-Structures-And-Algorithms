@@ -69,11 +69,3 @@ To get started with this repository, follow these steps:
 7. Test your implementation using the provided test cases and any additional test cases you might want to add.
 
 8. If you find any issues or have suggestions for improvements, please feel free to create a new issue or submit a pull request.
-
-## Contributing
-
-We welcome contributions to this repository! If you'd like to contribute, please read the [contributing guidelines](./CONTRIBUTING.md) and follow the steps outlined in the README.
-
-## License
-
-This project is licensed under the [MIT License](./LICENSE).
